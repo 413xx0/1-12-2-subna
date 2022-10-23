@@ -1,0 +1,14 @@
+# ignore everything
+/*
+
+# but not these files (dir is also a file)
+!config/
+!mods/
+!resourcepacks/
+!scripts/
+!options.txt
+!optionsof.txt
+
+!.gitignore
+!README.md
+

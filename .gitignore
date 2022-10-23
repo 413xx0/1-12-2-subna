@@ -12,3 +12,10 @@
 !.gitignore
 !README.md
 
+
+# ignore smth that's inside not ignored dirs
+
+# changes on startup, they're client, so just ignore them
+config/InvTweaks/InvTweaks.cfg
+config/splash.properties
+

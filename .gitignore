@@ -18,4 +18,7 @@
 # changes on startup, they're client, so just ignore them
 config/InvTweaks/InvTweaks.cfg
 config/splash.properties
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/AppliedEnergistics2/VersionChecker.cfg
+config/AppliedEnergistics2/items.csv
 

@@ -27,6 +27,7 @@ recipes.remove(<botania:terrasword>);
 recipes.remove(<botania:terrapick>);
 recipes.remove(<botania:flighttiara>);
 recipes.remove(<botania:runealtar>);
+recipes.remove(<botania:altar>);
 
 // Add
 recipes.addShaped(
@@ -136,6 +137,20 @@ mods.abyssalcraft.InfusionRitual.addRitual(
     [
         <botania:livingrock>, <botania:livingrock>, <botania:livingrock>, <divinerpg:arcanium>,
         MANA_PEARL, <divinerpg:arcanium>, <botania:livingrock>, <botania:livingrock>
+    ],
+    false
+);
+mods.abyssalcraft.InfusionRitual.addRitual(
+    "botania_altar",
+    scripts.constants.abyssalcraft.BOOK_ABYSSALNOMICON,
+    scripts.constants.abyssalcraft.DIM_OMOTHOL,
+    4000,
+    false,
+    <botania:altar>,
+    <abyssalcraft:gatekeeperessence>,
+    [
+        <ore:petalRed>, <ore:slabCobblestone>, <ore:cobblestone>, <ore:cobblestone>,
+        <ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>, <ore:slabCobblestone>
     ],
     false
 );

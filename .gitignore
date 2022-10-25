@@ -2,7 +2,6 @@
 /*
 
 # but not these files (dir is also a file)
-!config/
 !mods/
 !resourcepacks/
 !scripts/
@@ -12,13 +11,22 @@
 !.gitignore
 !README.md
 
-
-# ignore smth that's inside not ignored dirs
-
-# changes on startup, they're client, so just ignore them
-config/InvTweaks/InvTweaks.cfg
-config/splash.properties
-config/AppliedEnergistics2/CustomRecipes.cfg
-config/AppliedEnergistics2/VersionChecker.cfg
-config/AppliedEnergistics2/items.csv
+# changed server-side configs
+!config/extrabotany.cfg
+!config/acintegration.cfg
+!config/openblocks.cfg
+!config/eplus.cfg
+!config/scalinghealth/main.cfg
+!config/Waystones.cfg
+!config/abyssalcraft.cfg
+!config/AppliedEnergistics2/AppliedEnergistics2.cfg
+!config/zettaindustries.cfg
+!config/antiqueatlas/atlas_overlay.cfg
+!config/simpletomb.cfg
+!config/brandon3055/DraconicEvolution.cfg
+!config/industrialforegoing.cfg
+!config/Galacticraft/power-GC3.conf
+!config/Galacticraft/core.conf
+!config/Galacticraft/planets.conf
+!config/cyclicmagic.cfg
 

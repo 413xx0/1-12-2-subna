@@ -9,8 +9,6 @@ config/*
 !mods/
 !resourcepacks/
 !scripts/
-!options.txt
-!optionsof.txt
 
 !.gitignore
 !README.md
@@ -34,4 +32,6 @@ config/*
 !config/Galacticraft/planets.conf
 !config/cyclicmagic.cfg
 !config/foamfix.cfg
+!config/defaultoptions.cfg
+!config/defaultoptions/
 

@@ -1,13 +1,15 @@
 # ignore everything
 /*
 
-# a crutch to be able to not ignore some configs
+# a crutch to be able to not ignore some files inside ignored dirs
 !config
 config/*
+!resourcepacks
+resourcepacks/*
 
 # but not these files (dir is also a file)
 !mods/
-!resourcepacks/
+!resourcepacks/localize_rituals/
 !scripts/
 
 !.gitignore

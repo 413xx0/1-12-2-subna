@@ -1,6 +1,10 @@
 # ignore everything
 /*
 
+# a crutch to be able to not ignore some configs
+!config
+config/*
+
 # but not these files (dir is also a file)
 !mods/
 !resourcepacks/
@@ -29,4 +33,5 @@
 !config/Galacticraft/core.conf
 !config/Galacticraft/planets.conf
 !config/cyclicmagic.cfg
+!config/foamfix.cfg
 

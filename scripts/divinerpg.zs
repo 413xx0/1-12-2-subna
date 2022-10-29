@@ -289,7 +289,7 @@ _drpg_add_infusion_ritual(
 _drpg_add_infusion_ritual(
     "drpg_nightmare_bed",
     <divinerpg:nightmare_bed>,
-    <ore:bed>,
+    <ore:wool>,
     [
         <divinerpg:mortum_block>, <divinerpg:mortum_block>, <divinerpg:mortum_block>, <divinerpg:mortum_planks>,
         <divinerpg:mortum_planks>, <divinerpg:mortum_planks>, <divinerpg:mortum_block>, <divinerpg:mortum_block>

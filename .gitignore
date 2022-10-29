@@ -36,4 +36,8 @@ resourcepacks/*
 !config/foamfix.cfg
 !config/defaultoptions.cfg
 !config/defaultoptions/
+!config/difficultylock.cfg
+!config/bloodmoon.cfg
+!config/animalium.cfg
+!config/esm/
 

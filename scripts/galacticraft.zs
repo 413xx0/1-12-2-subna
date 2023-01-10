@@ -38,7 +38,7 @@ mods.immersiveengineering.Refinery.addRecipe(<liquid:fuel> * 100, <liquid:liquid
 moretweaker.galacticraft.Compressor.remove(<galacticraftcore:basic_item:9>);
 
 // Add
-moretweaker.galacticraft.Compressor.addShapeless(<immersiveengineering:metal:8>, [<ore:ingotSteel>, <ore:ingotSteel>]);
+moretweaker.galacticraft.Compressor.addShapeless(<galacticraftcore:basic_item:9>, [<ore:ingotSteel>, <ore:ingotSteel>]);
 
 
 // GC Circuit fabricator

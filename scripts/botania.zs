@@ -34,7 +34,7 @@ recipes.addShaped(
     <botania:terrasteelboots>,
     [
         [LIVINGWOOD_TWIG, <botania:manasteelboots>, LIVINGWOOD_TWIG],
-        [TERRASTEEL, <divinerpg:bedrock_boots>, TERRASTEEL],
+        [TERRASTEEL, <divinerpg:awakened_halite_boots>, TERRASTEEL],
         [RUNE_WINTER, TERRASTEEL, RUNE_WINTER]
     ]
 );
@@ -42,7 +42,7 @@ recipes.addShaped(
     <botania:terrasteellegs>,
     [
         [LIVINGWOOD_TWIG, <botania:manasteellegs>, LIVINGWOOD_TWIG],
-        [TERRASTEEL, <divinerpg:bedrock_leggings>, TERRASTEEL],
+        [TERRASTEEL, <divinerpg:awakened_halite_leggings>, TERRASTEEL],
         [RUNE_AUTUMN, TERRASTEEL, RUNE_AUTUMN]
     ]
 );
@@ -50,7 +50,7 @@ recipes.addShaped(
     <botania:terrasteelchest>,
     [
         [LIVINGWOOD_TWIG, <botania:manasteelchest>, LIVINGWOOD_TWIG],
-        [TERRASTEEL, <divinerpg:bedrock_chestplate>, TERRASTEEL],
+        [TERRASTEEL, <divinerpg:awakened_halite_chestplate>, TERRASTEEL],
         [RUNE_SUMMER, TERRASTEEL, RUNE_SUMMER]
     ]
 );
@@ -58,7 +58,7 @@ recipes.addShaped(
     <botania:terrasteelhelm>,
     [
         [LIVINGWOOD_TWIG, <botania:manasteelhelm>, LIVINGWOOD_TWIG],
-        [TERRASTEEL, <divinerpg:bedrock_helmet>, TERRASTEEL],
+        [TERRASTEEL, <divinerpg:awakened_halite_helmet>, TERRASTEEL],
         [RUNE_SPRING, TERRASTEEL, RUNE_SPRING]
     ]
 );
@@ -93,8 +93,8 @@ mods.abyssalcraft.InfusionRitual.addRitual(
     GAIA_INGOT,
     TERRASTEEL,
     [
-        <abyssalcraft:ethaxiumingot>, GAIA_LIFE_ESSENCE, <divinerpg:bedrock_chunk>, GAIA_LIFE_ESSENCE,
-        <abyssalcraft:ethaxiumingot>, GAIA_LIFE_ESSENCE, <divinerpg:bedrock_chunk>, GAIA_LIFE_ESSENCE
+        <abyssalcraft:ethaxiumingot>, GAIA_LIFE_ESSENCE, <divinerpg:mortum_soul>, GAIA_LIFE_ESSENCE,
+        <abyssalcraft:ethaxiumingot>, GAIA_LIFE_ESSENCE, <divinerpg:mortum_soul>, GAIA_LIFE_ESSENCE
     ],
     false
 );

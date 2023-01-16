@@ -6,10 +6,6 @@ import crafttweaker.item.IIngredient;
 // Remove
 // DeOP
 recipes.remove(<divinerpg:bedrock_chunk> * 3);
-recipes.remove(<divinerpg:bedrock_boots>);
-recipes.remove(<divinerpg:bedrock_leggings>);
-recipes.remove(<divinerpg:bedrock_chestplate>);
-recipes.remove(<divinerpg:bedrock_helmet>);
 recipes.remove(<divinerpg:bedrock_axe>);
 recipes.remove(<divinerpg:bedrock_pickaxe>);
 recipes.remove(<divinerpg:bedrock_shovel>);
@@ -163,35 +159,35 @@ recipes.addShaped(
     ]
 );
 recipes.addShaped(
-    <divinerpg:bedrock_helmet>,
+    <divinerpg:awakened_halite_boots>,
     [
-        [null, null, null],
-        [<divinerpg:bedrock_chunk>, <divinerpg:bedrock_chunk>, <divinerpg:bedrock_chunk>],
-        [<divinerpg:bedrock_chunk>, <divinerpg:awakened_halite_helmet>, <divinerpg:bedrock_chunk>]
+        [<divinerpg:corrupted_shards>, <divinerpg:bedrock_boots>, <divinerpg:corrupted_shards>],
+        [<divinerpg:divine_stone>, <divinerpg:halite_boots>, <divinerpg:divine_stone>],
+        [<divinerpg:arcanium>, <divinerpg:halite_boots>, <divinerpg:arcanium>]
     ]
 );
 recipes.addShaped(
-    <divinerpg:bedrock_chestplate>,
+    <divinerpg:awakened_halite_leggings>,
     [
-        [<divinerpg:bedrock_chunk>, <divinerpg:awakened_halite_chestplate>, <divinerpg:bedrock_chunk>],
-        [<divinerpg:bedrock_chunk>, <divinerpg:bedrock_chunk>, <divinerpg:bedrock_chunk>],
-        [<divinerpg:bedrock_chunk>, <divinerpg:bedrock_chunk>, <divinerpg:bedrock_chunk>]
+        [<divinerpg:corrupted_shards>, <divinerpg:bedrock_leggings>, <divinerpg:corrupted_shards>],
+        [<divinerpg:divine_stone>, <divinerpg:halite_leggings>, <divinerpg:divine_stone>],
+        [<divinerpg:arcanium>, <divinerpg:halite_leggings>, <divinerpg:arcanium>]
     ]
 );
 recipes.addShaped(
-    <divinerpg:bedrock_leggings>,
+    <divinerpg:awakened_halite_chestplate>,
     [
-        [<divinerpg:bedrock_chunk>, <divinerpg:bedrock_chunk>, <divinerpg:bedrock_chunk>],
-        [<divinerpg:bedrock_chunk>, <divinerpg:awakened_halite_leggings>, <divinerpg:bedrock_chunk>],
-        [<divinerpg:bedrock_chunk>, null, <divinerpg:bedrock_chunk>]
+        [<divinerpg:corrupted_shards>, <divinerpg:bedrock_chestplate>, <divinerpg:corrupted_shards>],
+        [<divinerpg:divine_stone>, <divinerpg:halite_chestplate>, <divinerpg:divine_stone>],
+        [<divinerpg:arcanium>, <divinerpg:halite_chestplate>, <divinerpg:arcanium>]
     ]
 );
 recipes.addShaped(
-    <divinerpg:bedrock_boots>,
+    <divinerpg:awakened_halite_helmet>,
     [
-        [null, null, null],
-        [<divinerpg:bedrock_chunk>, null, <divinerpg:bedrock_chunk>],
-        [<divinerpg:bedrock_chunk>, <divinerpg:awakened_halite_boots>, <divinerpg:bedrock_chunk>]
+        [<divinerpg:corrupted_shards>, <divinerpg:bedrock_helmet>, <divinerpg:corrupted_shards>],
+        [<divinerpg:divine_stone>, <divinerpg:halite_helmet>, <divinerpg:divine_stone>],
+        [<divinerpg:arcanium>, <divinerpg:halite_helmet>, <divinerpg:arcanium>]
     ]
 );
 
@@ -309,8 +305,8 @@ _drpg_add_infusion_ritual(
     <divinerpg:mysterious_clock>,
     <minecraft:clock>,
     [
-        <divinerpg:hellstone_ingot>, <abyssalcraft:ethaxiumingot>, <divinerpg:corrupted_stone>, <galacticraftplanets:item_basic_asteroids>,
-        <divinerpg:corrupted_stone>, <galacticraftplanets:item_basic_asteroids>, <divinerpg:corrupted_stone>, <abyssalcraft:ethaxiumingot>
+        <divinerpg:hellstone_ingot>, <abyssalcraft:ethaxiumingot>, <divinerpg:corrupted_shards>, <galacticraftplanets:item_basic_asteroids>,
+        <divinerpg:corrupted_shards>, <galacticraftplanets:item_basic_asteroids>, <divinerpg:corrupted_shards>, <abyssalcraft:ethaxiumingot>
     ]
 );
 _drpg_add_infusion_ritual(

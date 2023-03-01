@@ -84,7 +84,7 @@ recipes.addShaped(
 );
 
 recipes.addShaped(
-    <solarflux:solar_panel_8>,
+    <solarflux:solar_panel_8> * 2,
     [
         [<solarflux:photovoltaic_cell_6>, <solarflux:photovoltaic_cell_6>, <solarflux:photovoltaic_cell_6>],
         [<solarflux:solar_panel_7>, <minecraft:dragon_egg>, <solarflux:solar_panel_7>],
@@ -92,7 +92,7 @@ recipes.addShaped(
     ]
 );
 recipes.addShaped(
-    <solarflux:solar_panel_7>,
+    <solarflux:solar_panel_7> * 2,
     [
         [<solarflux:photovoltaic_cell_5>, <solarflux:photovoltaic_cell_5>, <solarflux:photovoltaic_cell_5>],
         [<solarflux:solar_panel_6>, <minecraft:dragon_breath>, <solarflux:solar_panel_6>],
@@ -100,7 +100,7 @@ recipes.addShaped(
     ]
 );
 recipes.addShaped(
-    <solarflux:solar_panel_6>,
+    <solarflux:solar_panel_6> * 2,
     [
         [<solarflux:photovoltaic_cell_4>, <solarflux:photovoltaic_cell_4>, <solarflux:photovoltaic_cell_4>],
         [<solarflux:solar_panel_5>,
@@ -109,7 +109,7 @@ recipes.addShaped(
     ]
 );
 recipes.addShaped(
-    <solarflux:solar_panel_5>,
+    <solarflux:solar_panel_5> * 2,
     [
         [<solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_3>, <solarflux:photovoltaic_cell_3>],
         [<solarflux:solar_panel_4>, <immersiveengineering:metal:7>, <solarflux:solar_panel_4>],
@@ -117,7 +117,7 @@ recipes.addShaped(
     ]
 );
 recipes.addShaped(
-    <solarflux:solar_panel_4>,
+    <solarflux:solar_panel_4> * 2,
     [
         [<solarflux:photovoltaic_cell_2>, <solarflux:photovoltaic_cell_2>, <solarflux:photovoltaic_cell_2>],
         [<solarflux:solar_panel_3>, <minecraft:clock>, <solarflux:solar_panel_3>],
@@ -125,7 +125,7 @@ recipes.addShaped(
     ]
 );
 recipes.addShaped(
-    <solarflux:solar_panel_3>,
+    <solarflux:solar_panel_3> * 2,
     [
         [<solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_1>, <solarflux:photovoltaic_cell_1>],
         [<immersiveengineering:metal_decoration0>, <minecraft:repeater>, <immersiveengineering:metal_decoration0>],
@@ -159,7 +159,7 @@ recipes.addShaped(
 );
 
 recipes.addShaped(
-    <solarflux:solar_panel_draconic>,
+    <solarflux:solar_panel_draconic> * 2,
     [
         [<solarflux:solar_panel_wyvern>, <draconicevolution:draconic_energy_core>, <solarflux:solar_panel_wyvern>],
         [<draconicevolution:draconic_energy_core>, <draconicevolution:awakened_core>, <draconicevolution:draconic_energy_core>],
@@ -167,7 +167,7 @@ recipes.addShaped(
     ]
 );
 recipes.addShaped(
-    <solarflux:solar_panel_wyvern>,
+    <solarflux:solar_panel_wyvern> * 4,
     [
         [<solarflux:solar_panel_8>, <draconicevolution:wyvern_energy_core>, <solarflux:solar_panel_8>],
         [<draconicevolution:wyvern_energy_core>, <draconicevolution:wyvern_core>, <draconicevolution:wyvern_energy_core>],

@@ -23,12 +23,20 @@ resourcepacks/*
 !config/scalinghealth/main.cfg
 !config/Waystones.cfg
 !config/abyssalcraft.cfg
+!config/AppliedEnergistics2
+config/AppliedEnergistics2/*
 !config/AppliedEnergistics2/AppliedEnergistics2.cfg
 !config/zettaindustries.cfg
+!config/antiqueatlas
+config/antiqueatlas/*
 !config/antiqueatlas/atlas_overlay.cfg
 !config/simpletomb.cfg
+!config/brandon3055
+config/brandon3055/*
 !config/brandon3055/DraconicEvolution.cfg
 !config/industrialforegoing.cfg
+!config/Galacticraft
+config/Galacticraft/*
 !config/Galacticraft/power-GC3.conf
 !config/Galacticraft/core.conf
 !config/Galacticraft/planets.conf
@@ -40,4 +48,7 @@ resourcepacks/*
 !config/animalium.cfg
 !config/IncreaseMobs.cfg
 !config/loliasm.cfg
+!config/cd4017be
+config/cd4017be/*
+!config/cd4017be/inductiveLogistics.rcp
 

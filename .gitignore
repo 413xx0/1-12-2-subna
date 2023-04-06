@@ -20,6 +20,8 @@ resourcepacks/*
 !config/acintegration.cfg
 !config/openblocks.cfg
 !config/eplus.cfg
+!config/scalinghealth
+config/scalinghealth/*
 !config/scalinghealth/main.cfg
 !config/Waystones.cfg
 !config/abyssalcraft.cfg

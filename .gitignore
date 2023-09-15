@@ -32,7 +32,7 @@ config/AppliedEnergistics2/*
 !config/antiqueatlas
 config/antiqueatlas/*
 !config/antiqueatlas/atlas_overlay.cfg
-!config/simpletomb.cfg
+!config/corpse.cfg
 !config/brandon3055
 config/brandon3055/*
 !config/brandon3055/DraconicEvolution.cfg

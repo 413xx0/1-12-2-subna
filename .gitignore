@@ -43,7 +43,7 @@ config/Galacticraft/*
 !config/Galacticraft/core.conf
 !config/Galacticraft/planets.conf
 !config/cyclicmagic.cfg
-!config/foamfix.cfg
+!config/vintagefix.properties
 !config/defaultoptions.cfg
 !config/defaultoptions/
 !config/difficultylock.cfg

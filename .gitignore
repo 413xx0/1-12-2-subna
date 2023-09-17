@@ -53,4 +53,4 @@ config/Galacticraft/*
 !config/cd4017be
 config/cd4017be/*
 !config/cd4017be/inductiveLogistics.rcp
-
+!config/badmobs.cfg

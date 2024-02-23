@@ -11,7 +11,7 @@ key_key.drop:16:NONE
 key_key.inventory:18:NONE
 key_key.chat:0:NONE
 key_key.playerlist:15:NONE
-key_key.pickItem:83:NONE
+key_key.pickItem:75:NONE
 key_key.command:53:NONE
 key_key.screenshot:0:NONE
 key_key.togglePerspective:63:NONE
@@ -32,7 +32,7 @@ key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
 key_of.key.zoom:0:NONE
-key_key.staff_mode.desc:0:NONE
+key_key.staff_mode.desc:76:NONE
 key_key.use_cage.desc:0:NONE
 key_key.configurator_mode.desc:0:NONE
 key_key.configurator_filter.desc:0:NONE
@@ -45,14 +45,15 @@ key_keybind.hammercorerenderstack:77:NONE
 key_key.conarm.toggle_helm.desc:0:NONE
 key_key.conarm.toggle_chest.desc:0:NONE
 key_key.conarm.toggle_leg.desc:0:NONE
-key_[GC] Галактическая карта:0:NONE
-key_[GC] Открыть инвентарь космического корабля:50:NONE
-key_[GC] Переключить режим Очков с сенсорами:0:NONE
+key_key.death_history:22:NONE
+key_[GC] Galaxy Map:50:NONE
+key_[GC] Open Spaceship Inventory:33:NONE
+key_[GC] Toggle Sensor Goggles Mode:37:NONE
 key_openblocks.keybind.vario_switch:0:NONE
 key_openblocks.keybind.vario_vol_up:0:NONE
 key_openblocks.keybind.vario_vol_down:0:NONE
-key_Difficulty Meter - Show:52:NONE
-key_Difficulty Meter - Show Always:52:SHIFT
+key_Difficulty Meter - Show:83:NONE
+key_Difficulty Meter - Show Always:0:NONE
 key_keys.servertabinfo.show:29:NONE
 key_keys.servertabinfo.show2:157:NONE
 key_key.dismount:42:NONE
@@ -77,6 +78,7 @@ key_key.keyExtraInvo:0:NONE
 key_key.keyWheel:0:NONE
 key_key.keyExtraCraftin:0:NONE
 key_nei.options.keys.gui.botania_corporea_request:0:NONE
+key_Options Gui:23:NONE
 key_key.clienttweaks.disable_step_assist:0:NONE
 key_key.clienttweaks.hide_offhand_item:0:NONE
 key_key.draconicevolution.placeItem:0:NONE
@@ -102,6 +104,8 @@ key_key.inventoryhud.togglepot:0:NONE
 key_key.inventoryhud.togglearm:0:NONE
 key_key.inventoryhud.toggleall:0:NONE
 key_invtweaks.key.sort:0:NONE
+key_jecalculation.key.gui_craft:0:NONE
+key_jecalculation.key.gui_math:0:NONE
 key_pi.key.open_pi:0:NONE
 key_pi.key.et_gui:0:NONE
 key_pi.key.et_world:0:NONE

@@ -13,6 +13,7 @@ resourcepacks/*
 !scripts/
 
 !.gitignore
+!.gitattributes
 !README.md
 
 # changed server-side configs
